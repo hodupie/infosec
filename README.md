@@ -17,3 +17,12 @@
 - if a port is open, print a banner of the port
 - analyze server using open port
 
+
+### encryption_decryption
+#### AES
+- import PyCryptodome
+- generate my own key
+- AES encrypt and decrypt
+
+#### MD5
+- Check the integrity of file using MD5 hash (MD5 checksum)
